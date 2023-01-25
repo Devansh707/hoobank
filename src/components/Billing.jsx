@@ -14,7 +14,9 @@ const Billing = () => (
       <h2 className={styles.heading2}>Easily Control your <br className="sm:block hidden" /> billing & invoicing.</h2>
 
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        This is My Demo Website. I am the Best and The Beast incarnate. Always rise from failure is my motto. The best Realtionship I had is with the my Failures. They never leave me and always teaches invaluable learnings.
+      Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
+      aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
+      placerat.
       </p>
 
       <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
